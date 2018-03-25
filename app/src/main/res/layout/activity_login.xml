@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.mobivision.kajiapps.LoginActivity">
+
+
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_gravity="center"
+        android:hint="@string/username"
+        />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:hint="@string/password"
+        android:layout_gravity="center"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/signin"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/signin"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:textColor="#ffff"
+        android:onClick="showSignIn"
+        android:layout_marginBottom="5dp"
+        />
+
+    <Button
+        android:id="@+id/signup"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/signup"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:textColor="#ffff"
+        android:onClick="showSignUp"
+        />
+
+</LinearLayout>

@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c8f9e91f298832a81bad3597343be8d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7cbe974ea9d44f50a1b16c518a20189c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1b41faf88fb9f4dc543882066fe53b1f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a53856ce230569b315d114f0021bc68\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2c1db06072ae19a147400f36f11f4d88\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3ef0fc33894b11575f5b98deae92033f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f9567acab56ef5adccc2f7eca4f69e2c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfa209fd06f283dc21bac465b08fc6a2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\613b6df7accfdbceaf6fa339bc050f71\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\609284877aee456da5a14e83ae5d36be\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b46ea9fe9b5a6979954edf1655e03102\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\27b537691fd6e14d7003e8e57c8189d9\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c13476e017c6a5c321401c15969c334a\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:7:5-32:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c8f9e91f298832a81bad3597343be8d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c8f9e91f298832a81bad3597343be8d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7cbe974ea9d44f50a1b16c518a20189c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7cbe974ea9d44f50a1b16c518a20189c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1b41faf88fb9f4dc543882066fe53b1f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1b41faf88fb9f4dc543882066fe53b1f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a53856ce230569b315d114f0021bc68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a53856ce230569b315d114f0021bc68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2c1db06072ae19a147400f36f11f4d88\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2c1db06072ae19a147400f36f11f4d88\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3ef0fc33894b11575f5b98deae92033f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3ef0fc33894b11575f5b98deae92033f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f9567acab56ef5adccc2f7eca4f69e2c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f9567acab56ef5adccc2f7eca4f69e2c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfa209fd06f283dc21bac465b08fc6a2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfa209fd06f283dc21bac465b08fc6a2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\613b6df7accfdbceaf6fa339bc050f71\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\613b6df7accfdbceaf6fa339bc050f71\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\609284877aee456da5a14e83ae5d36be\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\609284877aee456da5a14e83ae5d36be\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b46ea9fe9b5a6979954edf1655e03102\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b46ea9fe9b5a6979954edf1655e03102\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\27b537691fd6e14d7003e8e57c8189d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\27b537691fd6e14d7003e8e57c8189d9\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c13476e017c6a5c321401c15969c334a\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c13476e017c6a5c321401c15969c334a\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.mobivision.kajiapps.SplashActivity
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:14:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.mobivision.kajiapps.LoginActivity
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:21:19-48
+activity#com.example.mobivision.kajiapps.Daftar
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:22:19-41
+activity#com.example.mobivision.kajiapps.MenuActivity
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:23:19-47
+activity#com.ustadz.mobivision.kajiapps.UstadzActivity
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:25:9-82
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:25:19-79
+activity#com.ustadz.mobivision.kajiapps.DetailUstadzActivity
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:26:9-88
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:26:19-85
+activity#com.kajian.mobivision.kajiapps.MainMenuKajianActivity
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:27:9-90
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:27:19-87
+activity#com.kajian.mobivision.kajiapps.KajianActivity
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:28:9-82
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:28:19-79
+activity#com.kajian.mobivision.kajiapps.DetailActivity
+ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:29:9-82
+	android:name
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml:29:19-79
+uses-sdk
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c8f9e91f298832a81bad3597343be8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c8f9e91f298832a81bad3597343be8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7cbe974ea9d44f50a1b16c518a20189c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7cbe974ea9d44f50a1b16c518a20189c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1b41faf88fb9f4dc543882066fe53b1f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1b41faf88fb9f4dc543882066fe53b1f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a53856ce230569b315d114f0021bc68\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a53856ce230569b315d114f0021bc68\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2c1db06072ae19a147400f36f11f4d88\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2c1db06072ae19a147400f36f11f4d88\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3ef0fc33894b11575f5b98deae92033f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3ef0fc33894b11575f5b98deae92033f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f9567acab56ef5adccc2f7eca4f69e2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f9567acab56ef5adccc2f7eca4f69e2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfa209fd06f283dc21bac465b08fc6a2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfa209fd06f283dc21bac465b08fc6a2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\613b6df7accfdbceaf6fa339bc050f71\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\613b6df7accfdbceaf6fa339bc050f71\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\609284877aee456da5a14e83ae5d36be\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\609284877aee456da5a14e83ae5d36be\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b46ea9fe9b5a6979954edf1655e03102\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b46ea9fe9b5a6979954edf1655e03102\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\27b537691fd6e14d7003e8e57c8189d9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\27b537691fd6e14d7003e8e57c8189d9\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c13476e017c6a5c321401c15969c334a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c13476e017c6a5c321401c15969c334a\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1b41faf88fb9f4dc543882066fe53b1f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+		ADDED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+		INJECTED from E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c8f9e91f298832a81bad3597343be8d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7cbe974ea9d44f50a1b16c518a20189c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\7cbe974ea9d44f50a1b16c518a20189c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1b41faf88fb9f4dc543882066fe53b1f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1b41faf88fb9f4dc543882066fe53b1f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a53856ce230569b315d114f0021bc68\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1a53856ce230569b315d114f0021bc68\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3ef0fc33894b11575f5b98deae92033f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3ef0fc33894b11575f5b98deae92033f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f9567acab56ef5adccc2f7eca4f69e2c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f9567acab56ef5adccc2f7eca4f69e2c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfa209fd06f283dc21bac465b08fc6a2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\bfa209fd06f283dc21bac465b08fc6a2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\613b6df7accfdbceaf6fa339bc050f71\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\613b6df7accfdbceaf6fa339bc050f71\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\609284877aee456da5a14e83ae5d36be\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\609284877aee456da5a14e83ae5d36be\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b46ea9fe9b5a6979954edf1655e03102\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b46ea9fe9b5a6979954edf1655e03102\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\27b537691fd6e14d7003e8e57c8189d9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\27b537691fd6e14d7003e8e57c8189d9\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c8f9e91f298832a81bad3597343be8d\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\4c8f9e91f298832a81bad3597343be8d\AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c13476e017c6a5c321401c15969c334a\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c13476e017c6a5c321401c15969c334a\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus a456\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c13476e017c6a5c321401c15969c334a\AndroidManifest.xml:26:13-58

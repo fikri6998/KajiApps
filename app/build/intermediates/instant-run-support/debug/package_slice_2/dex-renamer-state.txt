@@ -1,0 +1,4 @@
+#Sun Mar 25 22:55:55 ICT 2018
+base.0=E\:\\TEL U\\Semester 6\\Capstone\\Tubes\\KajiApps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

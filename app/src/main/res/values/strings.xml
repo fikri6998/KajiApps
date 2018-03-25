@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KajiAppsMergeManual</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Masuk</string>
+    <string name="signup">Daftar</string>
+</resources>
