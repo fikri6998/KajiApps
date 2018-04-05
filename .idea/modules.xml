@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/KajiApps.iml" filepath="$PROJECT_DIR$/.idea/KajiApps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KajiApps.iml" filepath="$PROJECT_DIR$/KajiApps.iml" />
       <module fileurl="file://E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\KajiApps.iml" filepath="E:\TEL U\Semester 6\Capstone\Tubes\KajiApps\KajiApps.iml" />
+      <module fileurl="file://E:\TEL U\Semester 6\Mobile\Tugas Besar\AplikasiKajian\KajiApps\.idea\KajiApps.iml" filepath="E:\TEL U\Semester 6\Mobile\Tugas Besar\AplikasiKajian\KajiApps\.idea\KajiApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
