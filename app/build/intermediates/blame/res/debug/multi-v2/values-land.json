@@ -1,10 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TEL U\\Semester 6\\Capstone\\Tubes\\KajiApps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "E:\\Kampus\\Android\\RPL\\KajiApps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\asus a456\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1b41faf88fb9f4dc543882066fe53b1f\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\handikadicky\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\42ab499d15c356f0a441f52d47b0f54a\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\handikadicky\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\6f415545d4e039290e5cd99910647d29\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TEL U\\Semester 6\\Capstone\\Tubes\\KajiApps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "E:\\Kampus\\Android\\RPL\\KajiApps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\asus a456\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\27b537691fd6e14d7003e8e57c8189d9\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\handikadicky\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a7d7f7fdf39b83af7a5151212d96d629\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\asus a456\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1b41faf88fb9f4dc543882066fe53b1f\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\handikadicky\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\6f415545d4e039290e5cd99910647d29\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

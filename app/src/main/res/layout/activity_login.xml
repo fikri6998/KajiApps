@@ -1,53 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootlogin"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context="com.example.mobivision.kajiapps.LoginActivity">
+    android:background="#fff"
+    tools:context="mobivision.kajiapps.LoginActivity">
 
-
-
-    <EditText
-        android:id="@+id/username"
-        android:layout_width="250dp"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="200dp"
         android:layout_gravity="center"
-        android:hint="@string/username"
-        />
+        android:orientation="vertical"
+        android:padding="16dp">
 
-    <EditText
-        android:id="@+id/password"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="15dp"
-        android:hint="@string/password"
-        android:layout_gravity="center"
-        android:inputType="textPassword" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
 
-    <Button
-        android:id="@+id/signin"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:text="@string/signin"
-        android:layout_gravity="center"
-        android:background="@color/colorPrimary"
-        android:textColor="#ffff"
-        android:onClick="showSignIn"
-        android:layout_marginBottom="5dp"
-        />
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/logo_kajiapps" />
 
-    <Button
-        android:id="@+id/signup"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:text="@string/signup"
-        android:layout_gravity="center"
-        android:background="@color/colorPrimary"
-        android:textColor="#ffff"
-        android:onClick="showSignUp"
-        />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="10dp"
+                android:text="KAJIAPPS"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+        </LinearLayout>
 
-</LinearLayout>
+        <EditText
+            android:id="@+id/etUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center_horizontal"
+            android:hint="Masukkan Email"
+            android:inputType="textEmailAddress"
+            android:padding="15dp"
+            android:singleLine="true"
+            android:textColorHint="@color/colorPrimaryDark" />
+
+        <EditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:hint="Masukkan Password"
+            android:inputType="textPassword"
+            android:padding="15dp"
+            android:singleLine="true"
+            android:textColorHint="@color/colorPrimaryDark" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="#373737"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:onClick="masuk"
+                android:text="masuk"
+                android:textColor="#ffff" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="#373737"
+                android:backgroundTint="@color/colorPrimary"
+                android:foreground="?attr/selectableItemBackground"
+                android:onClick="daftar"
+                android:text="daftar"
+                android:textColor="#ffff" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>
