@@ -13,5 +13,6 @@ public class SharingActivity extends AppCompatActivity {
     }
 
     public void Launchsharingkajian(View view) {
+
     }
 }

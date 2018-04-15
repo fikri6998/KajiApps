@@ -2032,6 +2032,10 @@
         "source": "C:\\Users\\fikri6998\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\37e7b4acdf5d5d6d33ac6131100a89d0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "D:\\KajiApps\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sharing.xml.flat",
+        "source": "D:\\KajiApps\\app\\src\\main\\res\\layout\\activity_sharing.xml"
+    },
+    {
         "merged": "D:\\KajiApps\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\fikri6998\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\f7c8b8fb7e6c80a1a82e2bd1aec623be\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
