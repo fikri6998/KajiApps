@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "644953709187",
+    "firebase_url": "https://tubes-b095e.firebaseio.com",
+    "project_id": "tubes-b095e",
+    "storage_bucket": "tubes-b095e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644953709187:android:fddb80442671a920",
+        "android_client_info": {
+          "package_name": "mobivision.kajiapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644953709187-sl34i0253j5859h721ekl6j4tks67mqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobivision.kajiapps",
+            "certificate_hash": "ebb56bbcacf9ccaacdc9c87557b9c5545dfdf212"
+          }
+        },
+        {
+          "client_id": "644953709187-p7hpkvtrb2sd4bk1dk7t7n4mdogqag8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqA53HVxA4sp59gecI_Oo9C5Dy4NuO6Uw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644953709187-p7hpkvtrb2sd4bk1dk7t7n4mdogqag8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mobivision.kajiapps.MainMenu"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:background="@drawable/logo_infokajian"
+        android:id="@+id/bt_infokajian"
+        android:onClick="onClick"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:background="@drawable/logo_infoustadz"
+        android:id="@+id/bt_infoustadz"
+        android:onClick="onClick"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:background="@drawable/logo_infosedekah"
+        android:id="@+id/bt_infosedekah"
+        android:onClick="onClick"
+        />
+    <Button
+        android:id="@+id/btlogin"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Login"
+        android:background="@color/colorAccent"
+        android:textColor="#ffff"
+        android:hint="LOGIN"
+        android:textSize="35sp"
+        android:textAllCaps="false"
+        android:onClick="onClick"
+        />
+
+
+
+
+
+
+
+
+</LinearLayout>
