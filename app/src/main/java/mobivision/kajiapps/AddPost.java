@@ -12,6 +12,7 @@ import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Spinner;
 import android.widget.Toast;
 
 import mobivision.kajiapps.model.Post;
@@ -44,17 +45,21 @@ public class AddPost extends AppCompatActivity {
     Button mChooseImage;
     //our database reference object
     DatabaseReference databaseFood;
+    DatabaseReference databaseUstadz;
     FirebaseAuth mAuth;
 
     private Uri imageUri;
 
-    private StorageReference mStorage;
+    private StorageReference mStorage, mStorage2;
     Query databaseUser;
 
 
     //Variabel untuk datepicker
     EditText date;
     DatePickerDialog datePickerDialog;
+
+    //Spinner
+    Spinner sp;
 
 
     @Override
@@ -68,9 +73,11 @@ public class AddPost extends AppCompatActivity {
 
         mStorage = FirebaseStorage.getInstance().getReference().child("images");
 
+        mStorage2 = FirebaseStorage.getInstance().getReference().child("Ustadz");
+
         databaseFood = FirebaseDatabase.getInstance().getReference(MainActivity.table1);
 
-        databaseUser = FirebaseDatabase.getInstance().getReference(MainActivity.table3);
+//        databaseUser = FirebaseDatabase.getInstance().getReference(MainActivity.table3);
 
 
         //Referensi Inputan dari view
@@ -79,12 +86,12 @@ public class AddPost extends AppCompatActivity {
         imageView = findViewById(R.id.img_post);
         mUstadzPengisi = findViewById(R.id.et_ustadz_post);
         mLokasi = findViewById(R.id.et_lokasi_post);
-//        mWaktu = findViewById(R.id.et_waktu_post);
+        //mWaktu = findViewById(R.id.et_waktu_post);
 
 
         //Referensi untuk datapicker
-
         date = (EditText) findViewById(R.id.date);
+
         // perform click event on edit text
         date.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -120,6 +127,7 @@ public class AddPost extends AppCompatActivity {
                 startActivityForResult(Intent.createChooser(intent, "Select Picture"), PICK_IMAGE);
             }
         });
+
     }
 
     public void add(View view) {
@@ -197,4 +205,6 @@ public class AddPost extends AppCompatActivity {
             imageView.setImageURI(imageUri);
         }
     }
+
+
 }

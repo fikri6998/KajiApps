@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
         else if (id == R.id.logout) {
             mAuth.signOut();
-            Intent intent = new Intent(MainActivity.this, Login.class);
+            Intent intent = new Intent(MainActivity.this, MainMenu.class);
             startActivity(intent);
             finish();
         }

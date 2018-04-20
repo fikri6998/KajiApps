@@ -4,50 +4,124 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="mobivision.kajiapps.MainMenu"
+    android:background="#00a651"
     android:orientation="vertical"
-    >
+    tools:context="mobivision.kajiapps.MainMenu">
 
-    <Button
+    <!--<Button-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="175dp"-->
+    <!--android:background="@drawable/logo_infokajian"-->
+    <!--android:id="@+id/bt_infokajian"-->
+    <!--android:onClick="onClick"-->
+    <!--/>-->
+
+    <!--<Button-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="175dp"-->
+    <!--android:background="@drawable/logo_infoustadz"-->
+    <!--android:id="@+id/bt_infoustadz"-->
+    <!--android:onClick="onClick"-->
+    <!--/>-->
+    <!--<Button-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="175dp"-->
+    <!--android:background="@drawable/logo_infosedekah"-->
+    <!--android:id="@+id/bt_infosedekah"-->
+    <!--android:onClick="onClick"-->
+    <!--/>-->
+    <!--<Button-->
+    <!--android:id="@+id/btlogin"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="80dp"-->
+    <!--android:text="Login"-->
+    <!--android:background="@color/colorAccent"-->
+    <!--android:textColor="#ffff"-->
+    <!--android:hint="LOGIN"-->
+    <!--android:textSize="35sp"-->
+    <!--android:textAllCaps="false"-->
+    <!--android:onClick="onClick"-->
+    <!--/>-->
+
+
+    <ImageView
         android:layout_width="match_parent"
-        android:layout_height="175dp"
-        android:background="@drawable/logo_infokajian"
-        android:id="@+id/bt_infokajian"
-        android:onClick="onClick"
-        />
+        android:layout_height="180dp"
+        android:background="@drawable/ui_header" />
 
-    <Button
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="175dp"
-        android:background="@drawable/logo_infoustadz"
-        android:id="@+id/bt_infoustadz"
-        android:onClick="onClick"
-        />
-    <Button
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        >
+
+        <Button
+            android:id="@+id/bt_infokajian"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="@dimen/margin_8"
+            android:background="@drawable/ui_bt_infokajian"
+            android:onClick="onClick" />
+
+        <Button
+            android:id="@+id/bt_infoustadz"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="@dimen/margin_8"
+            android:background="@drawable/ui_bt_infoustadz"
+            android:onClick="onClick" />
+
+    </LinearLayout>
+
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="175dp"
-        android:background="@drawable/logo_infosedekah"
-        android:id="@+id/bt_infosedekah"
-        android:onClick="onClick"
-        />
-    <Button
-        android:id="@+id/btlogin"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bt_infosedekah"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="@dimen/margin_8"
+            android:background="@drawable/ui_bt_infosedekah"
+            android:onClick="onClick" />
+
+        <Button
+            android:id="@+id/btlogin"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="@dimen/margin_8"
+            android:background="@drawable/ui_bt_masuk"
+            android:onClick="onClick" />
+
+    </LinearLayout>
+
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:text="Login"
-        android:background="@color/colorAccent"
-        android:textColor="#ffff"
-        android:hint="LOGIN"
-        android:textSize="35sp"
-        android:textAllCaps="false"
-        android:onClick="onClick"
-        />
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Belum punya akun?"
+            android:textColor="#FFFF" />
 
+        <Button
+            android:id="@+id/btsignup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:onClick="onClick"
+            android:text="klin disini"
+            android:textAllCaps="false"
+            android:textColor="#FFFF"
+            android:textStyle="bold" />
 
-
-
-
-
-
+    </LinearLayout>
 </LinearLayout>

@@ -14,8 +14,6 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.squareup.picasso.Picasso;
 
-import org.w3c.dom.Text;
-
 public class MainActivityUstadz extends AppCompatActivity {
 
     private RecyclerView mUstadzList;
