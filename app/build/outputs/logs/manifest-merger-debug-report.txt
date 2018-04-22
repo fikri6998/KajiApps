@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.firebase:firebase-core:12.0.0] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.0.aar\396a942a2f4b4b0c2c1c7875c3d574b5\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:design:27.0.2] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\880d0a8030482565bd42b5f59803632b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f7c8b8fb7e6c80a1a82e2bd1aec623be\AndroidManifest.xml:17:1-22:12
@@ -45,20 +45,20 @@ MERGED from [com.google.firebase:firebase-database-connection-license:12.0.0] C:
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ee467ece2d70c524e8853d1ceddf2dd1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.0.aar\a403f9c756fc347dd79c4f37279b3f73\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-iid-license:12.0.0] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.0.aar\068bad9ac03866dbb9f3197568fff808\AndroidManifest.xml:2:1-8:12
-INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml
 		INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml
-		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml
-		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:11-69
@@ -73,7 +73,7 @@ MERGED from [com.google.firebase:firebase-iid:12.0.0] C:\Users\fikri6998\.gradle
 	android:name
 		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:7:5-21:19
+ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:7:5-22:19
 MERGED from [com.google.firebase:firebase-core:12.0.0] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.0.aar\396a942a2f4b4b0c2c1c7875c3d574b5\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:12.0.0] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.0.aar\396a942a2f4b4b0c2c1c7875c3d574b5\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\90e497bff990fbc5e524c9e1758c26fd\AndroidManifest.xml:9:5-20
@@ -143,9 +143,13 @@ ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
 		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:17:27-74
 activity#mobivision.kajiapps.SharingActivity
-ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:20:9-62
+ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:20:9-53
 	android:name
 		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:20:19-50
+activity#mobivision.kajiapps.SimpanJadwal
+ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from D:\KajiApps\app\src\main\AndroidManifest.xml:21:19-47
 uses-sdk
 INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\KajiApps\app\src\main\AndroidManifest.xml
@@ -381,8 +385,8 @@ ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\fikri
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\fikri6998\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\38dc0952bcee64492d62e8020ed3a50f\AndroidManifest.xml:24:13-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+IMPLIED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+IMPLIED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-23:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\KajiApps\app\src\main\AndroidManifest.xml:2:1-24:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE

@@ -37,6 +37,7 @@
             </intent-filter>
         </activity>
         <activity android:name="mobivision.kajiapps.SharingActivity" />
+        <activity android:name="mobivision.kajiapps.SimpanJadwal" />
         <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
             android:excludeFromRecents="true"
