@@ -12,6 +12,7 @@
   * [HALAMAN UTAMA](cara-kerja/halaman-utama.md)
   * [INFO KAJIAN](cara-kerja/info-kajian.md)
   * [DETAIL KAJIAN](cara-kerja/detail-kajian.md)
+  * [INFO USTADZ](cara-kerja/info-ustadz.md)
   * [LOKASI KAJIAN](cara-kerja/lokasi-kajian.md)
   * [SHARING KAJIAN](cara-kerja/sharing-kajian.md)
   * SEDEKAH ONLINE
