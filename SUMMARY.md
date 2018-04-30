@@ -6,7 +6,7 @@
   * [TUJUAN](pendahuluan/tujuan.md)
   * [DESKRIPSI APLIKASI](pendahuluan/deskripsi-aplikasi.md)
 * [CARA KERJA](cara-kerja/README.md)
-  * LOGIN
+  * [LOGIN](cara-kerja/login.md)
   * DAFTAR
   * INFO KAJIAN
   * SHARING KAJIAN
