@@ -5,7 +5,7 @@
   * [LATAR BELAKANG](pendahuluan/latar-belakang.md)
   * [TUJUAN](pendahuluan/tujuan.md)
   * [DESKRIPSI APLIKASI](pendahuluan/deskripsi-aplikasi.md)
-* CARA KERJA
+* [CARA KERJA](cara-kerja/README.md)
   * LOGIN
   * DAFTAR
   * INFO KAJIAN
