@@ -4,6 +4,8 @@ description: Penjelasan Mengenai Halaman utama
 
 # HALAMAN UTAMA
 
+### Tampilan Halaman Utama
+
  Di Halaman ini, akan dijelaskan mengenai halaman utama
 
 ![Halaman Utama](../.gitbook/assets/image_c0d188c%20%281%29.jpg)
