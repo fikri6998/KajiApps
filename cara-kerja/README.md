@@ -4,30 +4,12 @@
 2. pengguna yang tidak melakukan login dapat melihat informasi kajian tersebut yang ada di halaman utama. tetapi, pengguna hanya bisa melihat informasinya saja tanpa bisa melakukan pengajuan kajian.
 3. jika ingin melakukan kajian, pengguna harus login terlebih dahulu.
 4. pengguna akan masuk ke halaman login untuk melakukan login. jika tidak mempunya akun, maka pengguna dapat melakukan daftar di halaman yang sama.
-
-
-
-setelah daftar atau login, maka pengguna akan masuk ke halaman utama. di halaman utama, ada 4 button utama yaitu info kajian, info ustadz, sedekah online, dan masuk atau login.
-
-
-
-pertama, kita masuk terlebih dahulu ke halaman info kajian
-
-
-
-di halaman ini, ada informasi mengenai daftar kajian yang ada di kota bandung. pengguna dapat menekan daftar kajian tersebut.
-
-
-
-pengguna akan masuk ke halaman detail kajian, disini, pengguna akan melihat daftar kajian secara lebih rinci dan ada petunjuk lokasi dari lokasi kajian tersebut.
-
-
-
-di halaman ini, pengguna juga dapat melakukan pengajuan kajian ke dalam aplikasi.
-
-
-
-pengguna dapat memsaukkan nama kajian, lokasi kajian, nama penceramah, gambar kajian, dan jadwal kajian tersebut.
+5. setelah daftar atau login, maka pengguna akan masuk ke halaman utama. di halaman utama, ada 4 button utama yaitu info kajian, info ustadz, sedekah online, dan masuk atau login.
+6. pertama, kita masuk terlebih dahulu ke halaman info kajian
+7. di halaman ini, ada informasi mengenai daftar kajian yang ada di kota bandung. pengguna dapat menekan daftar kajian tersebut.
+8. pengguna akan masuk ke halaman detail kajian, disini, pengguna akan melihat daftar kajian secara lebih rinci dan ada petunjuk lokasi dari lokasi kajian tersebut.
+9. di halaman ini, pengguna juga dapat melakukan pengajuan kajian ke dalam aplikasi.
+10. pengguna dapat memsaukkan nama kajian, lokasi kajian, nama penceramah, gambar kajian, dan jadwal kajian tersebut.
 
 
 
