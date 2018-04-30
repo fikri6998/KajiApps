@@ -3,8 +3,8 @@
 * [Initial page](README.md)
 * [PENDAHULUAN](pendahuluan/README.md)
   * [LATAR BELAKANG](pendahuluan/latar-belakang.md)
-  * TUJUAN
-  * DESKRIPSI APLIKASI
+  * [TUJUAN](pendahuluan/tujuan.md)
+  * [DESKRIPSI APLIKASI](pendahuluan/deskripsi-aplikasi.md)
 * CARA KERJA
   * LOGIN
   * DAFTAR
