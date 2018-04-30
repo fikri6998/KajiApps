@@ -8,7 +8,7 @@
 * FITUR APLIKASI
 * [CARA KERJA](cara-kerja/README.md)
   * [LOGIN](cara-kerja/login.md)
-  * DAFTAR
+  * [DAFTAR](cara-kerja/daftar.md)
   * INFO KAJIAN
   * SHARING KAJIAN
   * SEDEKAH ONLINE
