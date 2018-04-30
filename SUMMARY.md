@@ -13,6 +13,6 @@
   * [INFO KAJIAN](cara-kerja/info-kajian.md)
   * [DETAIL KAJIAN](cara-kerja/detail-kajian.md)
   * [LOKASI KAJIAN](cara-kerja/lokasi-kajian.md)
-  * SHARING KAJIAN
+  * [SHARING KAJIAN](cara-kerja/sharing-kajian.md)
   * SEDEKAH ONLINE
 

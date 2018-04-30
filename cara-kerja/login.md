@@ -8,7 +8,7 @@ description: Penjelasan Mengenai Halaman Login
 
 Di Halaman ini, akan dijelaskan mengenai halaman Login
 
-![Halaman Login](../.gitbook/assets/image_1095d97.jpg)
+![Halaman Login](../.gitbook/assets/image_1095d97%20%281%29.jpg)
 
 Di halaman ini, pengguna akan memasukkan nama email yang terdaftar dan password untuk masuk ke dalam aplikasi.
 
