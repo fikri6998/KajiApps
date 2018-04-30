@@ -15,5 +15,5 @@
   * [INFO USTADZ](cara-kerja/info-ustadz.md)
   * [LOKASI KAJIAN](cara-kerja/lokasi-kajian.md)
   * [SHARING KAJIAN](cara-kerja/sharing-kajian.md)
-  * SEDEKAH ONLINE
+  * [SEDEKAH ONLINE](cara-kerja/sedekah-online.md)
 
