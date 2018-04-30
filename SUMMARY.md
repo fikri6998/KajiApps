@@ -9,7 +9,8 @@
 * [CARA KERJA](cara-kerja/README.md)
   * [LOGIN](cara-kerja/login.md)
   * [DAFTAR](cara-kerja/daftar.md)
-  * INFO KAJIAN
+  * [HALAMAN UTAMA](cara-kerja/halaman-utama.md)
+  * [INFO KAJIAN](cara-kerja/info-kajian.md)
   * SHARING KAJIAN
   * SEDEKAH ONLINE
 
