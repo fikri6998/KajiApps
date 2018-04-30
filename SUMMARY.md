@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
-* PENDAHULUAN
-  * LATAR BELAKANG
+* [PENDAHULUAN](pendahuluan/README.md)
+  * [LATAR BELAKANG](pendahuluan/latar-belakang.md)
   * TUJUAN
   * DESKRIPSI APLIKASI
 * CARA KERJA
