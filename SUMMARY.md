@@ -11,7 +11,7 @@
   * [DAFTAR](cara-kerja/daftar.md)
   * [HALAMAN UTAMA](cara-kerja/halaman-utama.md)
   * [INFO KAJIAN](cara-kerja/info-kajian.md)
-  * DETAIL KAJIAN
+  * [DETAIL KAJIAN](cara-kerja/detail-kajian.md)
   * SHARING KAJIAN
   * SEDEKAH ONLINE
 
