@@ -4,24 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="mobivision.kajiapps.AddPost"
     android:padding="@dimen/margin_8"
-    >
+    tools:context="mobivision.kajiapps.AddPost">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        >
+        android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Pengajuan Kajian"
-            android:textSize="20dp"
-            android:textStyle="bold"
-            android:textAlignment="center"
             android:layout_marginBottom="@dimen/margin_8"
-            />
+            android:text="Pengajuan Kajian"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:textStyle="bold" />
 
 
         <EditText
@@ -39,26 +37,30 @@
             android:inputType="text" />
 
         <!--<EditText-->
-            <!--android:id="@+id/et_waktu_post"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:hint="Waktu"-->
-            <!--android:inputType="text" />-->
+        <!--android:id="@+id/et_waktu_post"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="Waktu"-->
+        <!--android:inputType="text" />-->
 
         <EditText
             android:id="@+id/date"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:hint="Tanggal Kajian"
-             />
+            android:hint="Tanggal Kajian" />
 
-        <EditText
+        <!--<EditText-->
+        <!--android:id="@+id/et_lokasi_post"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="Lokasi"-->
+        <!--android:inputType="text" />-->
+
+        <Spinner
             android:id="@+id/et_lokasi_post"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="Lokasi"
-            android:inputType="text" />
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
 
         <EditText
             android:id="@+id/et_post"
@@ -72,8 +74,7 @@
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:layout_gravity="center"
-            android:src="@drawable/ic_launcher_background"
-            />
+            android:src="@drawable/ic_launcher_background" />
 
         <Button
             android:id="@+id/btn_choose_image"
@@ -81,10 +82,9 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/img_post"
             android:layout_centerHorizontal="true"
-            android:text="Choose File"
             android:layout_gravity="center"
+            android:text="Unggah Poster" />
 
-            />
         <Button
             android:id="@+id/btn_add"
             android:layout_width="match_parent"
@@ -93,7 +93,7 @@
             android:layout_marginTop="25dp"
             android:backgroundTint="@color/colorPrimary"
             android:onClick="add"
-            android:text="Add Post"
+            android:text="Kirim"
             android:textStyle="bold" />
 
     </LinearLayout>

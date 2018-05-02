@@ -30,8 +30,6 @@ public class Post {
         this.lokasi = mLokasi;
         this.ustadz = mUstadz;
         this.waktu = mWaktu;
-        
-
     }
 
     public Post(String id, String userId, String name, String download_url, String title, String postMessage, EditText mUstadzPengisi, EditText mLokasi, EditText mWaktu, long timestamp) {

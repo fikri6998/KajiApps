@@ -165,7 +165,7 @@ public class DetailActivity extends AppCompatActivity implements OnMapReadyCallb
 		 * "Subject Here");
 		 */
         sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, text);
-        startActivity(Intent.createChooser(sharingIntent, "Share Text Using"));
+        startActivity(Intent.createChooser(sharingIntent, "Bagikan info kajian"));
     }
 
 

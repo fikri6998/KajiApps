@@ -9,13 +9,15 @@ public class Kajian {
     private String judulkajian;
     private String lokasikajian;
     private String penceramahkajian;
+    private String deskripsikajian;
     private String waktukajian;
 
-    public Kajian(String potokajian, String judulkajian, String lokasikajian, String penceramahkajian, String waktukajian) {
+    public Kajian(String potokajian, String judulkajian, String lokasikajian, String penceramahkajian,String deskripsikajian, String waktukajian) {
         this.potokajian = potokajian;
         this.judulkajian = judulkajian;
         this.lokasikajian = lokasikajian;
         this.penceramahkajian = penceramahkajian;
+        this.deskripsikajian = deskripsikajian;
         this.waktukajian = waktukajian;
     }
 
@@ -57,6 +59,14 @@ public class Kajian {
 
     public void setWaktukajian(String waktukajian) {
         this.waktukajian = waktukajian;
+    }
+
+    public String getDeskripsikajian() {
+        return deskripsikajian;
+    }
+
+    public void setDeskripsikajian(String deskripsikajian) {
+        this.deskripsikajian = deskripsikajian;
     }
 
     public Kajian(){

@@ -98,10 +98,10 @@ public class Login extends AppCompatActivity {
                             databaseUser.child(id).setValue(user);
                             Intent i = new Intent(Login.this, MainActivity.class);
                             startActivity(i);
-                            Toast.makeText(Login.this, "Authentication Success.",
+                            Toast.makeText(Login.this, "Berhasil masuk",
                                     Toast.LENGTH_SHORT).show();
                         } else {
-                            Toast.makeText(Login.this, "Authentication failed.",
+                            Toast.makeText(Login.this, "Gagal masuk",
                                     Toast.LENGTH_SHORT).show();
                         }
                     }
@@ -119,7 +119,7 @@ public class Login extends AppCompatActivity {
                             FirebaseUser user = mAuth.getCurrentUser();
                             Intent i = new Intent(Login.this, MainActivity.class);
                             startActivity(i);
-                            Toast.makeText(Login.this, "Authentication Success.",
+                            Toast.makeText(Login.this, "Berhasil masuk",
                                     Toast.LENGTH_SHORT).show();
                         } else {
 

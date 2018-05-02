@@ -8,11 +8,11 @@
         android:title="Profil"
         app:showAsAction="never" />
 
-    <item
-        android:id="@+id/addustadz"
-        android:orderInCategory="100"
-        android:title="Tambah Ustadz"
-        app:showAsAction="never" />
+    <!--<item-->
+        <!--android:id="@+id/addustadz"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="Tambah Ustadz"-->
+        <!--app:showAsAction="never" />-->
 
     <item
         android:id="@+id/logout"

@@ -42,6 +42,8 @@ public class MainActivityKajian extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
+
+
         FirebaseRecyclerAdapter<Kajian, KajianViewHolder> firebaseRecyclerAdapter = new FirebaseRecyclerAdapter<Kajian, KajianViewHolder>(Kajian.class, R.layout.kajian_row, KajianViewHolder.class, mDatabase) {
             @Override
             protected void populateViewHolder(KajianViewHolder viewHolder, final Kajian model, int position) {
@@ -50,6 +52,9 @@ public class MainActivityKajian extends AppCompatActivity {
                 viewHolder.setLokasikajian(model.getLokasikajian());
                 viewHolder.setWaktukajian(model.getWaktukajian());
                 viewHolder.setPotokajian(getApplicationContext(), model.getPotokajian());
+                viewHolder.setDeskripsikajian(model.getDeskripsikajian());
+
+
 
                 viewHolder.itemView.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -61,6 +66,7 @@ public class MainActivityKajian extends AppCompatActivity {
                         i.putExtra("penceramahkajian", model.getPenceramahkajian());
                         i.putExtra("lokasikajian", model.getLokasikajian());
                         i.putExtra("waktukajian", model.getWaktukajian());
+                        i.putExtra("deskripsikajian", model.getDeskripsikajian());
                         i.putExtra("potokajian", model.getPotokajian());
 
                         startActivity(i);
@@ -115,6 +121,11 @@ public class MainActivityKajian extends AppCompatActivity {
         public void setWaktukajian(String waktu) {
             TextView vwaktu = (TextView) mView.findViewById(R.id.vwaktukajian);
             vwaktu.setText(waktu);
+        }
+
+        public void setDeskripsikajian(String deskripsi) {
+            TextView vdeskripsi = (TextView) mView.findViewById(R.id.vdeskripsi);
+            vdeskripsi.setText(deskripsi);
         }
 
 

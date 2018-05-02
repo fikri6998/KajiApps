@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import mobivision.kajiapps.Kajian;
 import mobivision.kajiapps.MainActivity;
 import mobivision.kajiapps.R;
 import mobivision.kajiapps.adapter.AdapterPost;
@@ -24,6 +25,64 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 
 
+//public class FragmentMyPost extends Fragment {
+//
+//    private RecyclerView recyclerView;
+//    private RecyclerView.Adapter adapter;
+//
+//    private ArrayList<Post> listPosts;
+//
+//    Query databaseFood;
+//
+//    @Override
+//    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+//                             Bundle savedInstanceState) {
+//        View view = inflater.inflate(R.layout.fragment_my_post, container, false);
+//
+//        recyclerView = view.findViewById(R.id.recyclerView);
+//        recyclerView.setHasFixedSize(true);
+//
+//        FirebaseAuth mAuth = FirebaseAuth.getInstance();
+//
+//        FirebaseUser cur_user = mAuth.getCurrentUser();
+//
+//        databaseFood = FirebaseDatabase.getInstance().getReference(MainActivity.table1).orderByChild("userID")
+// .equalTo(cur_user.getUid());
+//
+//        listPosts = new ArrayList<>() ;
+//
+//        return view;
+//    }
+//
+//    public void onStart() {
+//        super.onStart();
+//        databaseFood.addValueEventListener(new ValueEventListener() {
+//            @Override
+//            public void onDataChange(DataSnapshot dataSnapshot) {
+//
+//                listPosts.clear();
+//
+//                for (DataSnapshot postSnapshot : dataSnapshot.getChildren()) {
+//
+//                    Post post = postSnapshot.getValue(Post.class);
+//
+//                    listPosts.add(post);
+//                }
+//
+//                recyclerView.setLayoutManager(new GridLayoutManager(getContext(),2));
+//
+//                AdapterPost postList = new AdapterPost(getContext(), listPosts);
+//
+//                recyclerView.setAdapter(postList);
+//            }
+//            @Override
+//            public void onCancelled(DatabaseError databaseError) {
+//
+//            }
+//        });
+//    }
+//}
+
 public class FragmentMyPost extends Fragment {
 
     private RecyclerView recyclerView;
@@ -31,7 +90,7 @@ public class FragmentMyPost extends Fragment {
 
     private ArrayList<Post> listPosts;
 
-    Query databaseFood;
+    Query databasePost;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -42,10 +101,9 @@ public class FragmentMyPost extends Fragment {
         recyclerView.setHasFixedSize(true);
 
         FirebaseAuth mAuth = FirebaseAuth.getInstance();
-
         FirebaseUser cur_user = mAuth.getCurrentUser();
 
-        databaseFood = FirebaseDatabase.getInstance().getReference(MainActivity.table1).orderByChild("userID").equalTo(cur_user.getUid());
+        databasePost = FirebaseDatabase.getInstance().getReference(MainActivity.table1).orderByChild("userID").equalTo(cur_user.getUid());
 
         listPosts = new ArrayList<>() ;
 
@@ -54,7 +112,7 @@ public class FragmentMyPost extends Fragment {
 
     public void onStart() {
         super.onStart();
-        databaseFood.addValueEventListener(new ValueEventListener() {
+        databasePost.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
 
@@ -63,8 +121,10 @@ public class FragmentMyPost extends Fragment {
                 for (DataSnapshot postSnapshot : dataSnapshot.getChildren()) {
 
                     Post post = postSnapshot.getValue(Post.class);
+                    Kajian kajian = postSnapshot.getValue(Kajian.class);
 
                     listPosts.add(post);
+
                 }
 
                 recyclerView.setLayoutManager(new GridLayoutManager(getContext(),2));

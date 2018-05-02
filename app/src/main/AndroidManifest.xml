@@ -25,14 +25,17 @@
         <activity android:name=".MainMenu">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".Login"
+            android:label="Masuk"
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".AddPost"
+            android:label="Ajukan Kajian"
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".DetailPost"
@@ -41,10 +44,18 @@
             android:name=".Profil"
             android:label="Profil"
             android:parentActivityName=".MainActivity" />
-        <activity android:name=".MainActivityUstadz" />
-        <activity android:name=".SedekahOnlineActivity" />
-        <activity android:name=".MainActivityKajian" />
-        <activity android:name=".DetailActivity" />
+        <activity
+            android:name=".MainActivityUstadz"
+            android:label="Ustadz" />
+        <activity
+            android:name=".SedekahOnlineActivity"
+            android:label="Sedekah Online" />
+        <activity
+            android:name=".MainActivityKajian"
+            android:label="Kajian" />
+        <activity
+            android:name=".DetailActivity"
+            android:label="Detail" />
 
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -61,7 +72,10 @@
         <activity
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps" />
-        <activity android:name=".AddKajian"></activity>
+        <activity
+            android:name=".AddKajian"
+            android:label="Tambah Kajian" />
+
     </application>
 
 </manifest>
