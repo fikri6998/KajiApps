@@ -4,7 +4,7 @@ description: Pengembangan Tugas Besar Rekayasa Perangkat Lunak Capstone Project
 
 # PENDAHULUAN
 
-![](../.gitbook/assets/logo_kajiapps.png)
+![KajiApps Logo](../.gitbook/assets/logo_kajiapps%20%281%29.png)
 
 
 

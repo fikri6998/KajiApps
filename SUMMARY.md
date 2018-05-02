@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [KAJIAPPS](README.md)
 * [PENDAHULUAN](pendahuluan/README.md)
   * [LATAR BELAKANG](pendahuluan/latar-belakang.md)
   * [TUJUAN](pendahuluan/tujuan.md)
